@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvinCollier
 - 👀 I’m interested in game development and pixel art.
-- 🌱 I’m currently learning about web3 development.
+- 🌱 I’m currently learning about SQL and database management.
 - 💞️ I’m looking to collaborate on any type of interesting projects.
 - 📫 How to reach me by email or any of my social media pages.
 
